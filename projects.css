@@ -1,0 +1,14 @@
+table{
+	width: 80%;
+	margin: auto;
+	border:black solid 2px;
+	border-collapse: collapse;
+}
+
+th, td{
+	border: black solid 2px;
+}
+
+tr:hover{
+	background-color: lightblue;
+}
